@@ -1,0 +1,17 @@
+{
+  "name": "fastiin",
+  "version": "0.1.0",
+  "description": "A Simple Containerized Fastify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name" : "Rizki Ardian",
+    "email": "radeite8@gmail.com"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^1.5.0"
+  }
+}
